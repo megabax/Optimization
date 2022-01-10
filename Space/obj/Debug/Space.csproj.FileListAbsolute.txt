@@ -1,9 +1,0 @@
-D:\Самообразование\Лабы\Space\Space\bin\Debug\Space.exe.config
-D:\Самообразование\Лабы\Space\Space\bin\Debug\Space.exe
-D:\Самообразование\Лабы\Space\Space\bin\Debug\Space.pdb
-D:\Самообразование\Лабы\Space\Space\obj\Debug\Space.csprojResolveAssemblyReference.cache
-D:\Самообразование\Лабы\Space\Space\obj\Debug\Space.MainForm.resources
-D:\Самообразование\Лабы\Space\Space\obj\Debug\Space.Properties.Resources.resources
-D:\Самообразование\Лабы\Space\Space\obj\Debug\Space.csproj.GenerateResource.Cache
-D:\Самообразование\Лабы\Space\Space\obj\Debug\Space.exe
-D:\Самообразование\Лабы\Space\Space\obj\Debug\Space.pdb
