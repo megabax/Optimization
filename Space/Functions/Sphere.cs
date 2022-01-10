@@ -14,8 +14,8 @@ namespace Space.Functions
         /// <summary>
         /// Вычислить функцию
         /// </summary>
-        /// <param name="x">Коорината x</param>
-        /// <param name="y">Коорината y</param>
+        /// <param name="x">Координата x</param>
+        /// <param name="y">Координата y</param>
         /// <returns>Значение</returns>
         public override double calk(double x, double y)
         {
